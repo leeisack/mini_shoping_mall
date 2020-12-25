@@ -1,0 +1,52 @@
+{
+    "items":[
+        {"type":"tshirt",
+        "gender":"female",
+        "size":"large",
+        "color":"pink",
+        "image":"../mini_shoping_mall/image/pink_t.png"},
+
+        {"type":"pants",
+        "gender":"male",
+        "size":"small",
+        "color":"blue",
+        "image":"../mini_shoping_mall/image/blue_p.png"},
+
+        {"type":"pants",
+        "gender":"female",
+        "size":"large",
+        "color":"yellow",
+        "image":"../mini_shoping_mall/image/yellow_p.png"},
+
+        {"type":"skirt",
+        "gender":"female",
+        "size":"middium",
+        "color":"pink",
+        "image":"../mini_shoping_mall/image/pink_s.png"},
+
+        {"type":"tshirt",
+        "gender":"female",
+        "size":"large",
+        "color":"yellow",
+        "image":"../mini_shoping_mall/image/yellow_t.png"},
+
+        {"type":"tshirt",
+        "gender":"male",
+        "size":"large",
+        "color":"blue",
+        "image":"../mini_shoping_mall/image/blue_t.png"},
+
+        {"type":"pants",
+        "gender":"female",
+        "size":"large",
+        "color":"yellow",
+        "image":"../mini_shoping_mall/image/yellow_p.png"},
+        
+        {"type":"tshirt",
+        "gender":"female",
+        "size":"large",
+        "color":"pink",
+        "image":"../mini_shoping_mall/image/pink_t.png"}
+            
+    ]
+}
